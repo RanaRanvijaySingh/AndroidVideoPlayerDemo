@@ -1,7 +1,5 @@
 VideoPlayerDemo
 ===============
-<<<<<<< HEAD
-=======
 This application to show the use of a media file from the RAW folder in the application directory.<br/>
 There are very simple steps to add and use the video file in your application.<br/>
 <br/>
@@ -63,9 +61,3 @@ MediaController	: Allow you to view and control the media being played.<br/>
 						+ R.raw.istillhaveasoul);
 		video_player_view.start();
 	}
-
-
-
-
-
->>>>>>> 9ba78dccc320751171ff03691e877d22e389bd3b
